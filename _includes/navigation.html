@@ -1,5 +1,7 @@
 <nav>
     {% for location in site.data.navigation %}
-        <a href="{{ location.link }}">{{ location.name }}</a>
+        <a href="{{ location.link }}" class="nav {% if page.url == location.link %}nav-current{% endif %}">
+            {{ location.name }}
+        </a>
     {% endfor %}
 </nav>
