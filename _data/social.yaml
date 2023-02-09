@@ -1,0 +1,15 @@
+- title: Email
+  url: mailto:ruben.campos.zurriaga@gmail.com
+  icon: fas fa-envelope
+- title: Mastodon
+  url: https://mastodon.social/@rucamzu
+  icon: fab fa-mastodon
+- title: GitHub
+  url: https://github.com/rucamzu
+  icon: fab fa-github
+- title: Stack Overflow
+  url: https://stackoverflow.com/users/3059191/rucamzu
+  icon: fab fa-stack-overflow
+- title: LinkedIn
+  url: https://www.linkedin.com/in/rucamzu/
+  icon: fab fa-linkedin
